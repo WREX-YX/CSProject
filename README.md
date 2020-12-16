@@ -1,2 +1,3 @@
-# ECSProject
-Final project for ECS at SKyline High School|Jonathan Ma|1B|2020-21
+# Snake Without Limits
+## A snake game without limits, score can be viewed in Console and stored via text edit
+#### Created via JavaScript with Eclipse IDE
