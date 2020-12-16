@@ -38,6 +38,10 @@
 ##### Final Class Commit
 ###### Classes SquarePanel and ThreadsController created and tested
 
-#### 11/18/20 v1.2.0
-##### KeyboardListener
-###### Class KeyboardListener created and tested
+#### 12/02/20 v2.0.0
+##### Testing 
+###### Application tested  by peers
+
+#### 12/09/20 v2.0.0
+##### Finalization
+###### Project Finalized and uploaded
